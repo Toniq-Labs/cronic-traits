@@ -7,5 +7,7 @@ The remaining 8 battle traits are pure values - the higher the better.
 
 ## Dominant vs Recessive
 
-Each trait has two genes, a dominant and recessive, but these should be treated as Active and Inactive. The Dominant/Active gene is the one that affects a given Cronic, but when breeding there is a 50:50 chance that either will be passed. Therefore, there is a 25% chance that a child would contain a specific gene from a single parent.
+Each trait has two genes, a dominant and recessive, but these should be treated as Active and Inactive. The Dominant/Active gene is the one that affects a given Cronic, but when breeding there is a 50:50* chance that either will be passed. Therefore, there is a 25%* chance that a child would contain a specific gene from a single parent.
+
+***Please note, the above is subject to change but is essentially what we are looking at**
 
